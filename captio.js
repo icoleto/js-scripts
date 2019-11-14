@@ -1,7 +1,7 @@
-let PROJECT_CODE = "PYXXXXX";
-let CLIENT = "Google";
-let MOTIVO_COMIDA = "Lunch";
-let NUMERO_COMENSALES = 1;
+var PROJECT_CODE = "PYXXXXX";
+var CLIENT = "Google";
+var MOTIVO_COMIDA = "Lunch";
+var NUMERO_COMENSALES = 1;
 
 $('[id*="revisar')[0].click();
 var interval = setInterval(() => {
