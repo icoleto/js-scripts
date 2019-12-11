@@ -13,8 +13,6 @@ returns the number of commits by the current user.
 ### fillTicket()
 
 ### On a url like: 
-[https://gitlab-url:7443/user-name
-](https://)
 ![](https://i.ibb.co/x1NQ88K/2019-10-23-15-56-07.jpg)
 ### Setup
 - Modify `let` variables as you wish.
